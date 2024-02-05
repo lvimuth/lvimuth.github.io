@@ -156,32 +156,32 @@ content:
     content:
       - layout: left
         #title: Automated Identification of Medicinal Plants and Their Fungal Diseases
-        caption: Automated Identification of Medicinal Plants and Their Fungal Diseases
-        sub_title: 2022
+        caption: 2022
+        sub_title: Automated Identification of Medicinal Plants and Their Fungal Diseases
         #quote: >
           #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           The project can involve the development of a computer vision system that uses machine learning algorithms and image processing techniques to identify medicinal plants and detect fungal diseases on their leaves. The system can be trained on a dataset of images of different medicinal plants and their corresponding fungal diseases to learn the visual patterns and characteristics of each.
       - layout: left
         #title: Automated Identification of Medicinal Plants and Their Fungal Diseases
-        caption: Predictive Modeling of Air Quality Index (AQI) using Temporal and Meteorological Data
-        sub_title: 2021
+        caption: 2021
+        sub_title: Predictive Modeling of Air Quality Index (AQI) using Temporal and Meteorological Data
         #quote: >
           #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           The project can involve the development of a machine learning model that uses temporal and meteorological data to predict the Air Quality Index (AQI) for a particular location. The project can also involve the use of advanced machine learning algorithms such as Long Short-Term Memory (LSTM) networks and Gradient Boosting Machines (GBMs) to improve the accuracy of the prediction and handle the complexity of temporal data.
       - layout: left
         #title: Automated Identification of Medicinal Plants and Their Fungal Diseases
-        caption: Security Gate automation with Automated license plate recognition (ALPR) 
-        sub_title: 2019
+        caption:  2019
+        sub_title: Security Gate automation with Automated license plate recognition (ALPR)
         #quote: >
           #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           The project was done as a mini-project at the University. The project aimed to replace the manual gate system with an automated one. A license plate recognition system was developed using YOLO and CNN. The system was tested with a small-scale prototype. Used YOLO and CNN to detect and recognize license plates.Developed a small-scale prototype to simulate the process. Developed a Flask web app on Heroku to interact with the system.
       - layout: left
         #title: Automated Identification of Medicinal Plants and Their Fungal Diseases
-        caption: Real-time Attendance Management System using Firebase Realtime Database and Authentication.
-        sub_title: 2019
+        caption: 2019
+        sub_title: Real-time Attendance Management System using Firebase Realtime Database and Authentication
         #quote: >
           #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
