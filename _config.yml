@@ -169,21 +169,21 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Lung Cancer Detection and Prediction of Cancer Stages Using Image Processing
+        #link: github.com/sproogen
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+          - title:  ResearchGate
+            icon: fab fa-researchgate
+            url: https://www.researchgate.net/publication/356579951_Lung_Cancer_Detection_and_Prediction_of_Cancer_Stages_Using_Image_Processing/citations?latestCitations=PB%3A377736996
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          MIBEC 2021 2nd Malaysian International Biomedical Engineering Conference
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.  
-
+          This project's target was to make a lung cancer detection model using CT scan images with high accuracy and predicting the lung cancer stage.
+          
   #- title: A Little More About Me
    # layout: text
     #content: | # this will include new lines to allow paragraphs
