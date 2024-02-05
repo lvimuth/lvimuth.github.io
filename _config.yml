@@ -51,7 +51,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Vimuth and I'm a Machine Learning Engineer. As an Electrical and Telecommunication Engineering graduate, I am deeply passionate about AI and ML, with a strong foundation in Python, PLC, web development, and Java. My focus on image processing and AI is backed by practical projects and research. I am keen to contribute my diverse skills to roles that harness my engineering background and burgeoning expertise in Data Science and AI, aiming to drive innovation and tackle complex challenges.
+  Hi, my name's Lakshitha Vimuth and I'm a Machine Learning Engineer. As an Electrical and Telecommunication Engineering graduate, I am deeply passionate about AI and ML, with a strong foundation in Python, PLC, web development, and Java. My focus on image processing and AI is backed by practical projects and research. I am keen to contribute my diverse skills to roles that harness my engineering background and burgeoning expertise in Data Science and AI, aiming to drive innovation and tackle complex challenges.
 
   I am most skilled in: <mark>MLOps</mark> , <mark>Artificial Intelligence in Healthcare</mark> and <mark>Python</mark>
 
@@ -126,26 +126,28 @@ content:
           
           Innovative Problem Solving: Participated in brainstorming sessions and contributed innovative ideas for new algorithms or approaches to tackle project challenges, demonstrating a proactive and creative problem-solving mindset.
 
-  - title: Projects # Title for the section
+  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Master of Science in Artificial Inteligence
+        sub_title: University of Moratuwa
+        caption: 2024 - 2025
+        #link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        #additional_links:
+          #- title:  sproogen/modern-resume-theme
+           # icon: fab fa-github
+           # url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
+        #quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+       # description: | # this will include new lines to allow paragraphs
+          #I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
         
-  - title: Education # Title for the section
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
