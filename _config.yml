@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Lakshitha Vimuth
-title: Bio Medical Researcher / Machine Learning Engineer
+title: Bio-Medical Researcher / Machine Learning Engineer
 email: lakshithavimuth8@gmail.com
 website: lvimuth.github.io
 
@@ -60,10 +60,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Sparklo General Machinery LLC - UAE 
+        title: IoT Engineer 
         #link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: IoT Engineer
+        sub_title: Sparklo General Machinery LLC - UAE
         caption: May 2023 - Present
         #quote: >
           #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -80,10 +80,10 @@ content:
           
           <mark>Security and Efficiency:</mark> Implemented AI-enhanced security in IoT networks, significantly improving data integrity and system efficiency.
       - layout: left
-        title: South Eastern University - Sri Lanka 
+        title: Research Assistant and Demonstrator 
               #link: boringcompany.com
               # link_text: boringcompany.com
-        sub_title: Research Assistant and Demonstrator 
+        sub_title:  South Eastern University - Sri Lanka
         caption: December 2021 - January 2023
               #quote: >
                 #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -102,10 +102,10 @@ content:
                 
           <mark>Conference Participation and Networking:</mark> Actively participated in academic conferences and seminars, presenting findings and networking with peers, contributing to a vibrant academic community, and staying abreast of industry trends.
       - layout: left
-        title: Analog Inference - USA 
+        title: Machine Learning Engineer - Intern 
               #link: boringcompany.com
               # link_text: boringcompany.com
-        sub_title: Machine Learning Engineer - Intern  
+        sub_title:   Analog Inference - USA
         caption: May 2021 - December 2021
               #quote: >
                 #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
