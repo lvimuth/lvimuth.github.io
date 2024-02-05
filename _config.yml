@@ -99,27 +99,27 @@ content:
           
           Security and Efficiency:</mark> Implemented AI-enhanced security in IoT networks, significantly improving data integrity and system efficiency.
       - layout: left
-              title: South Eastern University - Sri Lanka 
+        title: South Eastern University - Sri Lanka 
               #link: boringcompany.com
               # link_text: boringcompany.com
-              sub_title: Research Assistant and Demonstrator 
-              caption: December 2021 - January 2023
+        sub_title: Research Assistant and Demonstrator 
+        caption: December 2021 - January 2023
               #quote: >
                 #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-              description: | # this will include new lines to allow paragraphs
-                Research and Development: Conducted cutting-edge research in Bio-Medical AI, contributing to 3 published papers/projects that advanced domain knowledge and technology application.
+        description: | # this will include new lines to allow paragraphs
+          Research and Development: Conducted cutting-edge research in Bio-Medical AI, contributing to 3 published papers/projects that advanced domain knowledge and technology application.
                 
-                Experimental Design and Analysis: Designed and executed complex experiments, employing statistical analysis and ML algorithms to validate hypotheses and interpret data, driving forward scientific understanding.
+          Experimental Design and Analysis: Designed and executed complex experiments, employing statistical analysis and ML algorithms to validate hypotheses and interpret data, driving forward scientific understanding.
                 
-                Technical Demonstrations: Led practical demonstrations and workshops for AI and ML, simplifying complex concepts for students and enhancing their hands-on skills in Python, Java, R, and C++.
+          Technical Demonstrations: Led practical demonstrations and workshops for AI and ML, simplifying complex concepts for students and enhancing their hands-on skills in Python, Java, R, and C++.
                 
-                Educational Support: Provided comprehensive academic support to students, including tutoring, feedback on assignments, and guidance on project work, ensuring a deep understanding of subject matter and application.
+          Educational Support: Provided comprehensive academic support to students, including tutoring, feedback on assignments, and guidance on project work, ensuring a deep understanding of subject matter and application.
                 
-                Innovative Teaching Methods: Developed and implemented innovative teaching methods and materials, including interactive digital content and simulation exercises, to engage students and improve learning outcomes.
+          Innovative Teaching Methods: Developed and implemented innovative teaching methods and materials, including interactive digital content and simulation exercises, to engage students and improve learning outcomes.
                 
-                Laboratory Management: Oversaw the maintenance and operation of research and teaching laboratories, ensuring the availability of up-to-date equipment and compliance with safety standards.
+          Laboratory Management: Oversaw the maintenance and operation of research and teaching laboratories, ensuring the availability of up-to-date equipment and compliance with safety standards.
                 
-                Conference Participation and Networking: Actively participated in academic conferences and seminars, presenting findings and networking with peers, contributing to a vibrant academic community, and staying abreast of industry trends.
+          Conference Participation and Networking: Actively participated in academic conferences and seminars, presenting findings and networking with peers, contributing to a vibrant academic community, and staying abreast of industry trends.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
