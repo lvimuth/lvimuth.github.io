@@ -83,21 +83,44 @@ content:
         #link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: IoT Engineer
-        caption: November 2023 - Present
+        caption: May 2023 - Present
         #quote: >
           #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          AI/ML Integration in IoT: Pioneered the incorporation of AI and ML into IoT devices, elevating automation and predictive capabilities, and contributing to a smarter device ecosystem.
+          <mark>AI/ML Integration in IoT:</mark> Pioneered the incorporation of AI and ML into IoT devices, elevating automation and predictive capabilities, and contributing to a smarter device ecosystem.
           
-          Data-Driven IoT Analytics: Applied ML models for real-time IoT sensor data analysis, enhancing decision-making and predictive maintenance.
+          <mark>Data-Driven IoT Analytics:</mark> Applied ML models for real-time IoT sensor data analysis, enhancing decision-making and predictive maintenance.
           
-          Collaborative Design: Led interdisciplinary teams in harmonizing AI and IoT functionalities, ensuring optimal device performance and user satisfaction.
+          <mark>Collaborative Design:</mark> Led interdisciplinary teams in harmonizing AI and IoT functionalities, ensuring optimal device performance and user satisfaction.
           
-          Custom IoT Solutions: Directed on-site evaluations and crafted AI-powered IoT solutions tailored to client specifications, boosting operational efficiency and achieving a 120% surge in market demand.
+          <mark>Custom IoT Solutions:</mark> Directed on-site evaluations and crafted AI-powered IoT solutions tailored to client specifications, boosting operational efficiency and achieving a 120% surge in market demand.
           
-          Innovation and Scalability: Developed scalable AI-integrated IoT frameworks, accommodating increased data and complexity, and spearheaded continuous tech advancements.
+          <mark>Innovation and Scalability:</mark> Developed scalable AI-integrated IoT frameworks, accommodating increased data and complexity, and spearheaded continuous tech advancements.
           
-          Security and Efficiency: Implemented AI-enhanced security in IoT networks, significantly improving data integrity and system efficiency.
+          Security and Efficiency:</mark> Implemented AI-enhanced security in IoT networks, significantly improving data integrity and system efficiency.
+      - layout: left
+              title: South Eastern University - Sri Lanka 
+              #link: boringcompany.com
+              # link_text: boringcompany.com
+              sub_title: Research Assistant and Demonstrator 
+              caption: December 2021 - January 2023
+              #quote: >
+                #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+              description: | # this will include new lines to allow paragraphs
+                Research and Development: Conducted cutting-edge research in Bio-Medical AI, contributing to 3 published papers/projects that advanced domain knowledge and technology application.
+                
+                Experimental Design and Analysis: Designed and executed complex experiments, employing statistical analysis and ML algorithms to validate hypotheses and interpret data, driving forward scientific understanding.
+                
+                Technical Demonstrations: Led practical demonstrations and workshops for AI and ML, simplifying complex concepts for students and enhancing their hands-on skills in Python, Java, R, and C++.
+                
+                Educational Support: Provided comprehensive academic support to students, including tutoring, feedback on assignments, and guidance on project work, ensuring a deep understanding of subject matter and application.
+                
+                Innovative Teaching Methods: Developed and implemented innovative teaching methods and materials, including interactive digital content and simulation exercises, to engage students and improve learning outcomes.
+                
+                Laboratory Management: Oversaw the maintenance and operation of research and teaching laboratories, ensuring the availability of up-to-date equipment and compliance with safety standards.
+                
+                Conference Participation and Networking: Actively participated in academic conferences and seminars, presenting findings and networking with peers, contributing to a vibrant academic community, and staying abreast of industry trends.
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
