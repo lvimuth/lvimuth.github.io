@@ -88,10 +88,15 @@ content:
           #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           AI/ML Integration in IoT: Pioneered the incorporation of AI and ML into IoT devices, elevating automation and predictive capabilities, and contributing to a smarter device ecosystem.
+          
           Data-Driven IoT Analytics: Applied ML models for real-time IoT sensor data analysis, enhancing decision-making and predictive maintenance.
+          
           Collaborative Design: Led interdisciplinary teams in harmonizing AI and IoT functionalities, ensuring optimal device performance and user satisfaction.
+          
           Custom IoT Solutions: Directed on-site evaluations and crafted AI-powered IoT solutions tailored to client specifications, boosting operational efficiency and achieving a 120% surge in market demand.
+          
           Innovation and Scalability: Developed scalable AI-integrated IoT frameworks, accommodating increased data and complexity, and spearheaded continuous tech advancements.
+          
           Security and Efficiency: Implemented AI-enhanced security in IoT networks, significantly improving data integrity and system efficiency.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
