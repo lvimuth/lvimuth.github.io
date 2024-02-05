@@ -97,7 +97,7 @@ content:
           
           <mark>Innovation and Scalability:</mark> Developed scalable AI-integrated IoT frameworks, accommodating increased data and complexity, and spearheaded continuous tech advancements.
           
-          Security and Efficiency:</mark> Implemented AI-enhanced security in IoT networks, significantly improving data integrity and system efficiency.
+          <mark>Security and Efficiency:</mark> Implemented AI-enhanced security in IoT networks, significantly improving data integrity and system efficiency.
       - layout: left
         title: South Eastern University - Sri Lanka 
               #link: boringcompany.com
@@ -107,20 +107,44 @@ content:
               #quote: >
                 #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          Research and Development: Conducted cutting-edge research in Bio-Medical AI, contributing to 3 published papers/projects that advanced domain knowledge and technology application.
+          <mark>Research and Development:</mark> Conducted cutting-edge research in Bio-Medical AI, contributing to 3 published papers/projects that advanced domain knowledge and technology application.
                 
-          Experimental Design and Analysis: Designed and executed complex experiments, employing statistical analysis and ML algorithms to validate hypotheses and interpret data, driving forward scientific understanding.
+          <mark>Experimental Design and Analysis:</mark> Designed and executed complex experiments, employing statistical analysis and ML algorithms to validate hypotheses and interpret data, driving forward scientific understanding.
                 
-          Technical Demonstrations: Led practical demonstrations and workshops for AI and ML, simplifying complex concepts for students and enhancing their hands-on skills in Python, Java, R, and C++.
+          <mark>Technical Demonstrations:</mark> Led practical demonstrations and workshops for AI and ML, simplifying complex concepts for students and enhancing their hands-on skills in Python, Java, R, and C++.
                 
-          Educational Support: Provided comprehensive academic support to students, including tutoring, feedback on assignments, and guidance on project work, ensuring a deep understanding of subject matter and application.
+          <mark>Educational Support:</mark> Provided comprehensive academic support to students, including tutoring, feedback on assignments, and guidance on project work, ensuring a deep understanding of subject matter and application.
                 
-          Innovative Teaching Methods: Developed and implemented innovative teaching methods and materials, including interactive digital content and simulation exercises, to engage students and improve learning outcomes.
+          <mark>Innovative Teaching Methods:</mark> Developed and implemented innovative teaching methods and materials, including interactive digital content and simulation exercises, to engage students and improve learning outcomes.
                 
-          Laboratory Management: Oversaw the maintenance and operation of research and teaching laboratories, ensuring the availability of up-to-date equipment and compliance with safety standards.
+          <mark>Laboratory Management:</mark> Oversaw the maintenance and operation of research and teaching laboratories, ensuring the availability of up-to-date equipment and compliance with safety standards.
                 
-          Conference Participation and Networking: Actively participated in academic conferences and seminars, presenting findings and networking with peers, contributing to a vibrant academic community, and staying abreast of industry trends.
-
+          <mark>Conference Participation and Networking:</mark> Actively participated in academic conferences and seminars, presenting findings and networking with peers, contributing to a vibrant academic community, and staying abreast of industry trends.
+      - layout: left
+        title: Analog Inference - USA 
+              #link: boringcompany.com
+              # link_text: boringcompany.com
+        sub_title: Machine Learning Engineer - Intern  
+        caption: May 2021 - December 2021
+              #quote: >
+                #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          <mark>Project Contribution:</mark> Actively contributed to ongoing machine learning projects, assisting in the development and optimization of algorithms and models under the guidance of senior ML engineers.
+          
+          <mark>Data Analysis and Preprocessing:</mark> Engaged in data collection, cleaning, and preprocessing to prepare datasets for training and testing ML models, gaining hands-on experience with real-world data challenges.
+          
+          <mark>Model Development and Testing:</mark> Participated in the design, implementation, and testing of machine learning models, applying theoretical knowledge to solve practical problems and improve model accuracy and efficiency.
+          
+          <mark>Collaborative Development:</mark> Worked within a cross-functional team, collaborating with data scientists, engineers, and product managers to integrate ML models into products and services, contributing to the end-to-end development process.
+          
+          <mark>Learning and Skill Enhancement:</mark> Engaged in a structured learning program, attending workshops, seminars, and training sessions to enhance skills in Python, TensorFlow, PyTorch, and other ML tools and frameworks.
+          
+          <mark>Performance Evaluation:</mark> Assisted in evaluating model performance using appropriate metrics, participating in the iterative process of model tuning and refinement to meet project goals.
+          
+          <mark>Documentation and Reporting:</mark> Contributed to the documentation of ML processes, models, and results, ensuring clear communication of methodologies and findings to both technical and non-technical stakeholders.
+          
+          Innovative Problem Solving: Participated in brainstorming sessions and contributed innovative ideas for new algorithms or approaches to tackle project challenges, demonstrating a proactive and creative problem-solving mindset.
+          
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
