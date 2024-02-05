@@ -79,16 +79,20 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Sparklo General Machinery LLC - UAE 
+        #link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        sub_title: IoT Engineer
+        caption: November 2023 - Present
+        #quote: >
+          #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
+          AI/ML Integration in IoT: Pioneered the incorporation of AI and ML into IoT devices, elevating automation and predictive capabilities, and contributing to a smarter device ecosystem.
+          Data-Driven IoT Analytics: Applied ML models for real-time IoT sensor data analysis, enhancing decision-making and predictive maintenance.
+          Collaborative Design: Led interdisciplinary teams in harmonizing AI and IoT functionalities, ensuring optimal device performance and user satisfaction.
+          Custom IoT Solutions: Directed on-site evaluations and crafted AI-powered IoT solutions tailored to client specifications, boosting operational efficiency and achieving a 120% surge in market demand.
+          Innovation and Scalability: Developed scalable AI-integrated IoT frameworks, accommodating increased data and complexity, and spearheaded continuous tech advancements.
+          Security and Efficiency: Implemented AI-enhanced security in IoT networks, significantly improving data integrity and system efficiency.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
