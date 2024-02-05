@@ -180,9 +180,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          MIBEC 2021 2nd Malaysian International Biomedical Engineering Conference
+          <mark>MIBEC 2021 2nd Malaysian International Biomedical Engineering Conference</mark>
         description: | # this will include new lines to allow paragraphs
-          This project's target was to make a lung cancer detection model using CT scan images with high accuracy and predicting the lung cancer stage.
+          The objective of this initiative was to design and implement a sophisticated model capable of detecting lung cancer through the analysis of computed tomography (CT) scan images. The project's cornerstone was the development of an algorithm that not only identifies the presence of lung cancer with a high degree of accuracy but also categorizes its progression into specific stages. This endeavor involved intricate image processing techniques and advanced machine learning algorithms to ensure precise diagnostics, ultimately contributing to early detection and personalized treatment strategies.
           
   #- title: A Little More About Me
    # layout: text
