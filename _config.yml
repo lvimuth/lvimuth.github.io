@@ -178,7 +178,6 @@ content:
           #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           The project was done as a mini-project at the University. The project aimed to replace the manual gate system with an automated one. A license plate recognition system was developed using YOLO and CNN. The system was tested with a small-scale prototype. Used YOLO and CNN to detect and recognize license plates.Developed a small-scale prototype to simulate the process. Developed a Flask web app on Heroku to interact with the system.
-          
       - layout: left
         #title: Automated Identification of Medicinal Plants and Their Fungal Diseases
         caption: Real-time Attendance Management System using Firebase Realtime Database and Authentication.
