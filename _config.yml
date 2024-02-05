@@ -30,10 +30,10 @@ linkedin_username: lvimuth
 # orcid_username: 0000-0000-0000-0000
 # Additional icon links
 additional_links:
-- title: medium.com
+- title: Medium link
   icon: fab fa-medium
   url: https://medium.com/@lvimuth
-- title: www.hackerrank.com
+- title: Hackerrank link
   icon: fab fa-hackerrank
   url: https://www.hackerrank.com/profile/lvimuthfb
 
@@ -51,8 +51,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-  As an Electrical and Telecommunication Engineering graduate, I am deeply passionate about AI and ML, with a strong foundation in Python, PLC, web development, and Java. My focus on image processing and AI is backed by practical projects and research. I am keen to contribute my diverse skills to roles that harness my engineering background and burgeoning expertise in Data Science and AI, aiming to drive innovation and tackle complex challenges.
+  Hi, my name's Vimuth and I'm a Machine Learning Engineer. | As an Electrical and Telecommunication Engineering graduate, I am deeply passionate about AI and ML, with a strong foundation in Python, PLC, web development, and Java. My focus on image processing and AI is backed by practical projects and research. I am keen to contribute my diverse skills to roles that harness my engineering background and burgeoning expertise in Data Science and AI, aiming to drive innovation and tackle complex challenges.
 
   I am most skilled in: <mark>MLOps</mark> , <mark>Artificial Intelligence in Healthcare</mark> and <mark>Python</mark>
 
