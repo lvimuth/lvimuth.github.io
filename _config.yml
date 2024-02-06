@@ -32,10 +32,10 @@ linkedin_username: lvimuth
 additional_links:
 - title: Medium link
   icon: fab fa-medium
-  url: https://medium.com/@lvimuth
+  url: https://lvimuth.medium.com/
 - title: Hackerrank link
   icon: fab fa-hackerrank
-  url: https://www.hackerrank.com/profile/lvimuthfb
+  url: https://www.hackerrank.com/profile/lvimuth
 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -124,7 +124,7 @@ content:
           
           <mark>Documentation and Reporting:</mark> Contributed to the documentation of ML processes, models, and results, ensuring clear communication of methodologies and findings to both technical and non-technical stakeholders.
           
-          Innovative Problem Solving: Participated in brainstorming sessions and contributed innovative ideas for new algorithms or approaches to tackle project challenges, demonstrating a proactive and creative problem-solving mindset.
+          <mark>Innovative Problem Solving:</mark> Participated in brainstorming sessions and contributed innovative ideas for new algorithms or approaches to tackle project challenges, demonstrating a proactive and creative problem-solving mindset.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
