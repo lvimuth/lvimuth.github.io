@@ -37,7 +37,7 @@ additional_links:
   icon: fab fa-hackerrank
   url: https://www.hackerrank.com/profile/lvimuth
 - title: Portfolio link
-  icon: fab fa-globe
+  icon: fab fa-computer
   url: https://github.com/lvimuth/lvimuth.github.io/blob/main/portfolio.yml
 
 # - title: another link
