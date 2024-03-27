@@ -36,6 +36,9 @@ additional_links:
 - title: Hackerrank link
   icon: fab fa-hackerrank
   url: https://www.hackerrank.com/profile/lvimuth
+- title: Portfolio link
+  icon: fab fa-globe
+  url: https://www.hackerrank.com/profile/lvimuth
 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
