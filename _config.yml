@@ -37,8 +37,9 @@ additional_links:
   icon: fab fa-hackerrank
   url: https://www.hackerrank.com/profile/lvimuth
 - title: Portfolio link
-  icon: fab fa-computer
-  url: https://github.com/lvimuth/lvimuth.github.io/blob/main/portfolio.yml
+  icon: fab fa-globe
+  url: https://lvimuth.github.io/mlportfolio
+google_analytics: "G-MB8MNN84C5"
 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
