@@ -37,11 +37,11 @@ additional_links:
   icon: fab fa-hackerrank
   url: https://www.hackerrank.com/profile/lvimuth
 - title: IEEE link
-  icon: fab fa-ieee
-  url: https://www.hackerrank.com/profile/lvimuth
+  icon: fab fa-diamond
+  url: https://ieeexplore.ieee.org/author/37089229263
 - title: Researchgate link
   icon: fab fa-researchgate
-  url: https://www.hackerrank.com/profile/lvimuth
+  url: https://www.researchgate.net/profile/Lakshitha-Senarathna
 google_analytics: "G-MB8MNN84C5"
 
 # - title: another link
