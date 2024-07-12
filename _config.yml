@@ -36,6 +36,12 @@ additional_links:
 - title: Hackerrank link
   icon: fab fa-hackerrank
   url: https://www.hackerrank.com/profile/lvimuth
+- title: IEEE link
+  icon: fab fa-ieee
+  url: https://www.hackerrank.com/profile/lvimuth
+- title: Researchgate link
+  icon: fab fa-researchgate
+  url: https://www.hackerrank.com/profile/lvimuth
 google_analytics: "G-MB8MNN84C5"
 
 # - title: another link
