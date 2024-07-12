@@ -37,7 +37,7 @@ additional_links:
   icon: fab fa-hackerrank
   url: https://www.hackerrank.com/profile/lvimuth
 - title: IEEE link
-  icon: fab fa-diamond
+  icon: fab fa-ethernet
   url: https://ieeexplore.ieee.org/author/37089229263
 - title: Researchgate link
   icon: fab fa-researchgate
