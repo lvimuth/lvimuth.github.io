@@ -1,0 +1,133 @@
+about_content: "\nHi, I\u2019m **Lakshitha Vimuth**, a **Machine Learning Engineer\
+  \ & AI Researcher** specializing in **LLMs, Generative AI, MLOps, and AI-driven\
+  \ automation**. \nMy expertise lies in **building scalable AI solutions** that integrate\
+  \ **deep learning, NLP, and real-time data analytics** for **healthcare, industrial\
+  \ IoT, and business automation**.\n\nI am passionate about **leveraging AI to solve\
+  \ real-world challenges**, whether it's **fine-tuning large language models (LLMs)\
+  \ for healthcare document summarization**, \n**automating workflows with LangChain\
+  \ and OpenAI APIs**, or **optimizing AI-driven IoT systems for predictive analytics**.\n\
+  \n\U0001F539 **Key Specialties**:  \n\u2705 **LLMs & NLP**: Hugging Face Transformers,\
+  \ OpenAI APIs, LangChain  \n\u2705 **MLOps**: CI/CD pipelines, Model Deployment,\
+  \ FastAPI, TensorFlow Serving  \n\u2705 **AI in Healthcare**: Medical Document Summarization,\
+  \ AI-driven Diagnostics  \n\u2705 **Generative AI**: Text, Image & Speech Generation\
+  \ with OpenAI & Stability AI  \n\u2705 **Real-time AI Solutions**: AI for IoT, Predictive\
+  \ Analytics, Edge Computing  \n\n\U0001F4A1 **Mission**: Building AI solutions that\
+  \ **scale across industries, enhance automation, and create business value**.\n"
+about_profile_image: images/profile.jpg
+additional_links:
+- icon: fab fa-medium
+  title: Medium link
+  url: https://lvimuth.medium.com/
+- icon: fab fa-hackerrank
+  title: Hackerrank link
+  url: https://www.hackerrank.com/profile/lvimuth
+- icon: fab fa-ethernet
+  title: IEEE link
+  url: https://ieeexplore.ieee.org/author/37089229263
+- icon: fab fa-researchgate
+  title: Researchgate link
+  url: https://www.researchgate.net/profile/Lakshitha-Senarathna
+content:
+- content:
+  - caption: May 2023 - Present
+    description: "\n\U0001F539 **AI-Powered Predictive Maintenance**:  \n\u2714 Built\
+      \ **real-time AI pipelines** for **IoT sensor data analytics**, reducing **equipment\
+      \ failures by 40%**.  \n\u2714 Integrated **Hugging Face models** for **anomaly\
+      \ detection** in industrial networks.  \n\n\U0001F539 **Generative AI for Business\
+      \ Automation**:  \n\u2714 Developed **AI-powered chatbots** using **LangChain\
+      \ + OpenAI** to automate **customer support**.  \n\u2714 Designed **AI-driven\
+      \ workflow automation**, reducing **manual workload by 60%**.  \n\n\U0001F539\
+      \ **MLOps & AI Model Deployment**:  \n\u2714 Deployed **AI models on AWS, Azure**,\
+      \ using **FastAPI & TensorFlow Serving**.  \n\u2714 Built CI/CD pipelines for\
+      \ **continuous AI model updates and monitoring**.  \n"
+    layout: left
+    sub_title: Sparklo General Machinery LLC - UAE
+    title: AI & ML Engineer (LLMs, Generative AI, IoT Automation)
+  - caption: Dec 2021 - Jan 2023
+    description: "\n\U0001F539 **LLM-based Healthcare AI Solutions**:  \n\u2714 Fine-tuned\
+      \ **BERT, BioBERT, and GPT-based models** for **medical document summarization**.\
+      \  \n\u2714 Developed **NLP-based clinical decision-support systems** for automated\
+      \ diagnosis.  \n\n\U0001F539 **AI for Medical Imaging & Diagnostics**:  \n\u2714\
+      \ Created **AI-powered lung cancer detection models** achieving **98% accuracy**.\
+      \  \n\u2714 Applied **GANs & Transformers** for **CT scan image enhancement\
+      \ & segmentation**.  \n\n\U0001F539 **AI Research & Publications**:  \n\u2714\
+      \ Published **3 peer-reviewed AI research papers** on **medical AI innovations**.\
+      \  \n\u2714 Delivered **ML workshops** impacting **500+ students** on **Deep\
+      \ Learning & AI applications**.  \n"
+    layout: left
+    sub_title: South Eastern University of Sri Lanka
+    title: "Research Assistant \u2013 AI in Healthcare & NLP"
+  layout: list
+  title: Experience
+- content:
+  - caption: 2024 - 2025
+    layout: top-middle
+    sub_title: University of Moratuwa
+    title: Master of Science in Artificial Intelligence
+  - caption: 2016 - 2024
+    layout: top-middle
+    sub_title: South Eastern University of Sri Lanka
+    title: Bachelor of Science (Hons) in Electrical & Electronic Engineering
+  layout: list
+  title: Education
+- content:
+  - caption: '2024'
+    description: "\n\u2714 **Fine-tuned BERT models** for **summarizing medical records\
+      \ & clinical reports**.  \n\u2714 **Integrated LangChain & OpenAI APIs** for\
+      \ **automated healthcare documentation**.  \n"
+    layout: left
+    sub_title: LLM-based Medical Document Summarization (BERT, Hugging Face)
+  - caption: '2023'
+    description: "\n\u2714 Built **real-time AI models** for **IoT-based anomaly detection\
+      \ and failure prediction**.  \n\u2714 Deployed AI pipelines using **AWS Lambda,\
+      \ FastAPI, and Kubernetes**.  \n"
+    layout: left
+    sub_title: AI-Powered IoT Predictive Analytics (TensorFlow, Hugging Face, AWS)
+  - caption: '2022'
+    description: "\n\u2714 Developed **NLP-powered virtual assistants** to handle\
+      \ **customer inquiries 24/7**.  \n\u2714 Used **LangChain memory & vector databases**\
+      \ for **context-aware chatbot responses**.  \n"
+    layout: left
+    sub_title: AI Chatbot for Automated Customer Support (LangChain, OpenAI, Pinecone)
+  layout: list
+  title: Projects
+- content:
+  - additional_links:
+    - icon: fab fa-researchgate
+      title: ResearchGate
+      url: https://www.researchgate.net/publication/356579951_Lung_Cancer_Detection_and_Prediction_of_Cancer_Stages_Using_Image_Processing/citations?latestCitations=PB%3A377736996
+    description: 'The objective of this initiative was to design and implement a sophisticated
+      model capable of detecting lung cancer through the analysis of computed tomography
+      (CT) scan images. The project''s cornerstone was the development of an algorithm
+      that not only identifies the presence of lung cancer with a high degree of accuracy
+      but also categorizes its progression into specific stages. This endeavor involved
+      intricate image processing techniques and advanced machine learning algorithms
+      to ensure precise diagnostics, ultimately contributing to early detection and
+      personalized treatment strategies.
+
+      '
+    layout: top-middle
+    quote: '<mark>MIBEC 2021 2nd Malaysian International Biomedical Engineering Conference</mark>
+
+      '
+    title: Lung Cancer Detection and Prediction of Cancer Stages Using Image Processing
+  layout: list
+  title: Publications
+darkmode: false
+email: lakshithavimuth8@gmail.com
+favicon: images/profile_icon.ico
+footer_show_references: true
+github_username: lvimuth
+google_analytics: G-MB8MNN84C5
+linkedin_username: lvimuth
+name: Lakshitha Vimuth
+plugins:
+- jekyll-seo-tag
+remote_theme: sproogen/resume-theme
+repository: sproogen/resume-theme
+sass:
+  sass_dir: _sass
+  style: compressed
+title: Machine Learning Engineer | AI Researcher | LLMs & MLOps Specialist
+version: 2
+website: lvimuth.github.io
