@@ -16,7 +16,7 @@ darkmode: false
 
 # Social links
 # twitter_username: facespics
-github_username:  lvimuth
+github_username: lvimuth
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -30,18 +30,18 @@ linkedin_username: lvimuth
 # orcid_username: 0000-0000-0000-0000
 # Additional icon links
 additional_links:
-- title: Medium link
-  icon: fab fa-medium
-  url: https://lvimuth.medium.com/
-- title: Hackerrank link
-  icon: fab fa-hackerrank
-  url: https://www.hackerrank.com/profile/lvimuth
-- title: IEEE link
-  icon: fab fa-ethernet
-  url: https://ieeexplore.ieee.org/author/37089229263
-- title: Researchgate link
-  icon: fab fa-researchgate
-  url: https://www.researchgate.net/profile/Lakshitha-Senarathna
+  - title: Medium link
+    icon: fab fa-medium
+    url: https://lvimuth.medium.com/
+  - title: Hackerrank link
+    icon: fab fa-hackerrank
+    url: https://www.hackerrank.com/profile/lvimuth
+  - title: IEEE link
+    icon: fab fa-ethernet
+    url: https://ieeexplore.ieee.org/author/37089229263
+  - title: Researchgate link
+    icon: fab fa-researchgate
+    url: https://www.researchgate.net/profile/Lakshitha-Senarathna
 google_analytics: "G-MB8MNN84C5"
 
 # - title: another link
@@ -58,7 +58,9 @@ google_analytics: "G-MB8MNN84C5"
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Lakshitha Vimuth and I'm a Machine Learning Engineer. As an Electrical and Telecommunication Engineering graduate, I am deeply passionate about AI and ML, with a strong foundation in Python, PLC, web development, and Java. My focus on image processing and AI is backed by practical projects and research. I am keen to contribute my diverse skills to roles that harness my engineering background and burgeoning expertise in Data Science and AI, aiming to drive innovation and tackle complex challenges.
+  Hi, I’m Lakshitha Vimuth, an experienced Machine Learning Engineer and Researcher with a passion for solving real-world problems using AI-driven innovations. I have a strong foundation in Electrical and Electronic Engineering and specialize in developing and deploying AI and ML solutions in real-world environments. 
+
+  I thrive on collaborating with multi-disciplinary teams to build data-driven solutions that enhance operational efficiency, reduce costs, and create impactful business outcomes. My expertise spans AI-powered healthcare innovations, predictive analytics for IoT applications, and natural language processing (NLP).
 
   I am most skilled in: <mark>MLOps</mark> , <mark>Artificial Intelligence in Healthcare</mark> and <mark>Python</mark>
 
@@ -67,33 +69,35 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: IoT Engineer 
+        title: IoT Engineer
         #link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Sparklo General Machinery LLC - UAE
         caption: May 2023 - Present
         #quote: >
-          #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           <mark>AI/ML Integration in IoT:</mark> Pioneered the incorporation of AI and ML into IoT devices, elevating automation and predictive capabilities, and contributing to a smarter device ecosystem.
-          
+
           <mark>Data-Driven IoT Analytics:</mark> Applied ML models for real-time IoT sensor data analysis, enhancing decision-making and predictive maintenance.
-          
+
           <mark>Collaborative Design:</mark> Led interdisciplinary teams in harmonizing AI and IoT functionalities, ensuring optimal device performance and user satisfaction.
-          
+
           <mark>Custom IoT Solutions:</mark> Directed on-site evaluations and crafted AI-powered IoT solutions tailored to client specifications, boosting operational efficiency and achieving a 120% surge in market demand.
-          
+
           <mark>Innovation and Scalability:</mark> Developed scalable AI-integrated IoT frameworks, accommodating increased data and complexity, and spearheaded continuous tech advancements.
-          
+
           <mark>Security and Efficiency:</mark> Implemented AI-enhanced security in IoT networks, significantly improving data integrity and system efficiency.
       - layout: left
-        title: Research Assistant and Demonstrator 
-              #link: boringcompany.com
-              # link_text: boringcompany.com
-        sub_title:  South Eastern University - Sri Lanka
-        caption: December 2021 - January 2023
-              #quote: >
-                #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        title:
+          Research Assistant and Demonstrator
+          #link: boringcompany.com
+          # link_text: boringcompany.com
+        sub_title: South Eastern University - Sri Lanka
+        caption:
+          December 2021 - January 2023
+          #quote: >
+          #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           <mark>Research and Development:</mark> Conducted cutting-edge research in Bio-Medical AI, contributing to 3 published papers/projects that advanced domain knowledge and technology application.
                 
@@ -109,28 +113,30 @@ content:
                 
           <mark>Conference Participation and Networking:</mark> Actively participated in academic conferences and seminars, presenting findings and networking with peers, contributing to a vibrant academic community, and staying abreast of industry trends.
       - layout: left
-        title: Machine Learning Engineer - Intern 
-              #link: boringcompany.com
-              # link_text: boringcompany.com
-        sub_title:   Analog Inference - USA
-        caption: May 2021 - December 2021
-              #quote: >
-                #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        title:
+          Machine Learning Engineer - Intern
+          #link: boringcompany.com
+          # link_text: boringcompany.com
+        sub_title: Analog Inference - USA
+        caption:
+          May 2021 - December 2021
+          #quote: >
+          #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           <mark>Project Contribution:</mark> Actively contributed to ongoing machine learning projects, assisting in the development and optimization of algorithms and models under the guidance of senior ML engineers.
-          
+
           <mark>Data Analysis and Preprocessing:</mark> Engaged in data collection, cleaning, and preprocessing to prepare datasets for training and testing ML models, gaining hands-on experience with real-world data challenges.
-          
+
           <mark>Model Development and Testing:</mark> Participated in the design, implementation, and testing of machine learning models, applying theoretical knowledge to solve practical problems and improve model accuracy and efficiency.
-          
+
           <mark>Collaborative Development:</mark> Worked within a cross-functional team, collaborating with data scientists, engineers, and product managers to integrate ML models into products and services, contributing to the end-to-end development process.
-          
+
           <mark>Learning and Skill Enhancement:</mark> Engaged in a structured learning program, attending workshops, seminars, and training sessions to enhance skills in Python, TensorFlow, PyTorch, and other ML tools and frameworks.
-          
+
           <mark>Performance Evaluation:</mark> Assisted in evaluating model performance using appropriate metrics, participating in the iterative process of model tuning and refinement to meet project goals.
-          
+
           <mark>Documentation and Reporting:</mark> Contributed to the documentation of ML processes, models, and results, ensuring clear communication of methodologies and findings to both technical and non-technical stakeholders.
-          
+
           <mark>Innovative Problem Solving:</mark> Participated in brainstorming sessions and contributed innovative ideas for new algorithms or approaches to tackle project challenges, demonstrating a proactive and creative problem-solving mindset.
 
   - title: Education # Title for the section
@@ -143,21 +149,21 @@ content:
         #link: github.com/sproogen
         # link_text: Project Website
         #additional_links:
-          #- title:  sproogen/modern-resume-theme
-           # icon: fab fa-github
-           # url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        #- title:  sproogen/modern-resume-theme
+        # icon: fab fa-github
+        # url: github.com/sproogen/modern-resume-theme
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         #quote: >
-          #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-       # description: | # this will include new lines to allow paragraphs
-          #I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+        #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # description: | # this will include new lines to allow paragraphs
+        #I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
       - layout: top-middle
         title: Bachelor of Science (Honours) in Electrical and Electronic Engineering
         caption: 2016 - 2024
         sub_title: South Eastern University of Sri Lanka
-        
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -166,7 +172,7 @@ content:
         caption: 2022
         sub_title: Automated Identification of Medicinal Plants and Their Fungal Diseases
         #quote: >
-          #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           The project can involve the development of a computer vision system that uses machine learning algorithms and image processing techniques to identify medicinal plants and detect fungal diseases on their leaves. The system can be trained on a dataset of images of different medicinal plants and their corresponding fungal diseases to learn the visual patterns and characteristics of each.
       - layout: left
@@ -174,15 +180,15 @@ content:
         caption: 2021
         sub_title: Predictive Modeling of Air Quality Index (AQI) using Temporal and Meteorological Data
         #quote: >
-          #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           The project can involve the development of a machine learning model that uses temporal and meteorological data to predict the Air Quality Index (AQI) for a particular location. The project can also involve the use of advanced machine learning algorithms such as Long Short-Term Memory (LSTM) networks and Gradient Boosting Machines (GBMs) to improve the accuracy of the prediction and handle the complexity of temporal data.
       - layout: left
         #title: Automated Identification of Medicinal Plants and Their Fungal Diseases
-        caption:  2019
+        caption: 2019
         sub_title: Security Gate automation with Automated license plate recognition (ALPR)
         #quote: >
-          #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           The project was done as a mini-project at the University. The project aimed to replace the manual gate system with an automated one. A license plate recognition system was developed using YOLO and CNN. The system was tested with a small-scale prototype. Used YOLO and CNN to detect and recognize license plates.Developed a small-scale prototype to simulate the process. Developed a Flask web app on Heroku to interact with the system.
       - layout: left
@@ -190,10 +196,10 @@ content:
         caption: 2019
         sub_title: Real-time Attendance Management System using Firebase Realtime Database and Authentication
         #quote: >
-          #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           The project can involve the creation of a web or mobile application that enables organizations to track the attendance of their employees or students in real-time. The application can include features such as automatic marking of attendance based on location or time, real-time monitoring of attendance records, and integration with payroll or academic systems.
-          
+
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -202,7 +208,7 @@ content:
         #link: github.com/sproogen
         # link_text: Project Website
         additional_links:
-          - title:  ResearchGate
+          - title: ResearchGate
             icon: fab fa-researchgate
             url: https://www.researchgate.net/publication/356579951_Lung_Cancer_Detection_and_Prediction_of_Cancer_Stages_Using_Image_Processing/citations?latestCitations=PB%3A377736996
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -212,18 +218,18 @@ content:
           <mark>MIBEC 2021 2nd Malaysian International Biomedical Engineering Conference</mark>
         description: | # this will include new lines to allow paragraphs
           The objective of this initiative was to design and implement a sophisticated model capable of detecting lung cancer through the analysis of computed tomography (CT) scan images. The project's cornerstone was the development of an algorithm that not only identifies the presence of lung cancer with a high degree of accuracy but also categorizes its progression into specific stages. This endeavor involved intricate image processing techniques and advanced machine learning algorithms to ensure precise diagnostics, ultimately contributing to early detection and personalized treatment strategies.
-          
-  #- title: A Little More About Me
-   # layout: text
-    #content: | # this will include new lines to allow paragraphs
-     # Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-     # - Rock climbing
-     # - Gaming
-     # - Knitting
-     # - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-     # Look at this cool image  
-     # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+  #- title: A Little More About Me
+  # layout: text
+  #content: | # this will include new lines to allow paragraphs
+  # Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+  # - Rock climbing
+  # - Gaming
+  # - Knitting
+  # - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+  # Look at this cool image
+  # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
@@ -237,4 +243,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
