@@ -63,11 +63,18 @@ about_content: | # this will include new lines to allow paragraphs
   I thrive on collaborating with multi-disciplinary teams to build data-driven solutions that enhance operational efficiency, reduce costs, and create impactful business outcomes. My expertise spans AI-powered healthcare innovations, predictive analytics for IoT applications, and natural language processing (NLP).
 
   I am most skilled in: 
-  <mark>LLMs & NLP </mark>: Hugging Face Transformers, OpenAI APIs, LangChain
-  MLOps: CI/CD pipelines, Model Deployment, FastAPI, TensorFlow Serving
-  AI in Healthcare: Medical Document Summarization, AI-driven Diagnostics
-  ✅ Generative AI: Text, Image & Speech Generation with OpenAI & Stability AI
-  ✅ Real-time AI Solutions: AI for IoT, Predictive Analytics, Edge Computing
+
+  ✅ <mark>AI & ML Development</mark>: Python, TensorFlow, PyTorch, Hugging Face Transformers, FastAPI, LangChain
+
+  ✅ <mark>LLMs & NLP </mark>: Hugging Face Transformers, OpenAI APIs, LangChain
+
+  ✅ <mark>MLOps: CI/CD pipelines, Model Deployment, FastAPI, TensorFlow Serving
+
+  ✅ <mark>AI in Healthcare: Medical Document Summarization, AI-driven Diagnostics
+
+  ✅ <mark>Generative AI</mark>: Text, Image & Speech Generation with OpenAI & Stability AI
+
+  ✅ <mark>Real-time AI Solutions</mark>: AI for IoT, Predictive Analytics, Edge Computing
 
 content:
   - title: Experience # Title for the section
