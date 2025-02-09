@@ -176,21 +176,20 @@ content:
           #quote: >
           #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          <mark>Project Contribution:</mark> Actively contributed to ongoing machine learning projects, assisting in the development and optimization of algorithms and models under the guidance of senior ML engineers.
+          <mark>AI Optimization for Edge Devices</mark>:
 
-          <mark>Data Analysis and Preprocessing:</mark> Engaged in data collection, cleaning, and preprocessing to prepare datasets for training and testing ML models, gaining hands-on experience with real-world data challenges.
+          ✔ Built lightweight ML models for low-power edge computing, increasing efficiency by 500%.
+          ✔ Used TensorRT & ONNX to optimize AI inference on IoT & embedded devices.
 
-          <mark>Model Development and Testing:</mark> Participated in the design, implementation, and testing of machine learning models, applying theoretical knowledge to solve practical problems and improve model accuracy and efficiency.
+          <mark>LLMs & Conversational AI</mark>:
 
-          <mark>Collaborative Development:</mark> Worked within a cross-functional team, collaborating with data scientists, engineers, and product managers to integrate ML models into products and services, contributing to the end-to-end development process.
+          ✔ Experimented with GPT-based models for voice assistants and customer support chatbots.
 
-          <mark>Learning and Skill Enhancement:</mark> Engaged in a structured learning program, attending workshops, seminars, and training sessions to enhance skills in Python, TensorFlow, PyTorch, and other ML tools and frameworks.
+          <mark>AI Model Deployment & Scaling</mark>:
 
-          <mark>Performance Evaluation:</mark> Assisted in evaluating model performance using appropriate metrics, participating in the iterative process of model tuning and refinement to meet project goals.
+          ✔ Deployed ML models using Docker, Kubernetes, and AWS Lambda, ensuring scalability and cost efficiency.
 
-          <mark>Documentation and Reporting:</mark> Contributed to the documentation of ML processes, models, and results, ensuring clear communication of methodologies and findings to both technical and non-technical stakeholders.
 
-          <mark>Innovative Problem Solving:</mark> Participated in brainstorming sessions and contributed innovative ideas for new algorithms or approaches to tackle project challenges, demonstrating a proactive and creative problem-solving mindset.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -223,7 +222,7 @@ content:
       - layout: left
         #title: Automated Identification of Medicinal Plants and Their Fungal Diseases
         caption: 2022
-        sub_title: Automated Identification of Medicinal Plants and Their Fungal Diseases
+        sub_title: LLM-based Medical Document Summarization (BERT, Hugging Face)
         #quote: >
         #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
