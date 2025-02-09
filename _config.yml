@@ -62,14 +62,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I thrive on collaborating with multi-disciplinary teams to build data-driven solutions that enhance operational efficiency, reduce costs, and create impactful business outcomes. My expertise spans AI-powered healthcare innovations, predictive analytics for IoT applications, and natural language processing (NLP).
 
-  I am most skilled in: "\n\
-  \n\U0001F539 **Key Specialties**:  \n\u2705 **LLMs & NLP**: Hugging Face Transformers,\
-  \ OpenAI APIs, LangChain  \n\u2705 **MLOps**: CI/CD pipelines, Model Deployment,\
-  \ FastAPI, TensorFlow Serving  \n\u2705 **AI in Healthcare**: Medical Document Summarization,\
-  \ AI-driven Diagnostics  \n\u2705 **Generative AI**: Text, Image & Speech Generation\
-  \ with OpenAI & Stability AI  \n\u2705 **Real-time AI Solutions**: AI for IoT, Predictive\
-  \ Analytics, Edge Computing  \n\n\U0001F4A1 **Mission**: Building AI solutions that\
-  \ **scale across industries, enhance automation, and create business value**.\n"
+  I am most skilled in: <mark>LLMs & NLP </mark>: Hugging Face Transformers, OpenAI APIs, LangChain
 
 content:
   - title: Experience # Title for the section
